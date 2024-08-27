@@ -2,15 +2,7 @@
 #Background**********
 Beginner Python Practice Attempts
 Welcome to my "Python Practice" repository! 👋
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#########About Me😄
-My name is Onyinyechi "Onyi" Ajoku and I recently received my degree in business administration🕴️, and I'm excited to combine my business expertise with technical abilities. I'm devoted to studying and developing as a beginner in the tech field, starting with Python., This repository is a collection of my practice attempts from my first Python course. I'm willing to make as many mistakes as I can to learn from them and advance in this journey because I'm extremely driven and passionate about improving. 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##########Purpose of This Repository************
-This repository is a space where I document my progress as I transition into the tech industry. Eventually, I want to use my enhanced programming abilities to tackle business challenges in the real world. The code you’ll find here represents my learning process, with a focus on hands-on practice and continuous improvement.  In the future, as I enroll in more tech-related courses, I'll also start working on side projects to apply the skills I've learned in these courses. I'll start with very basic Python programs as a newbie and work my way up. In my documentation process, I will be completely open and honest about the difficulties I encounter as well as the measures I've taken to solve them. I'll also include a checklist for my next projects and my learning path. I will be able to monitor my development in this way.  
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 My Learning Journey⏰
 []Python: Python was my first step into the tech world, and this repository contains the exercises and practice projects I completed during my beginner course.
 
