@@ -1,4 +1,4 @@
-Python Input Exercise Attempt!🐍
+Python Input Exercise Attempt #1!🐍
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Overview
@@ -218,3 +218,13 @@ Lessons Learned🟩
 Next Steps❗
 1. Rewrite the code and try again: I'm going to make some changes to the data type handling and syntax and then try the exercise again.
 2. Further Learning: To strengthen my comprehension and steer clear of similar errors in the future, I will go over the fundamental grammar and functions of Python.
+
+********************************************************************************************************************************************
+Python Exercise #2🐍!
+--------------------------------------------------------------------------------------------------------------------------------------------
+Overview
+This documentation covers the fundamental string operations, escape characters, string formatting, and more that I learned while working with Python strings. The exercises show you how I handled strings in many situations, including multiple-line strings, escape characters, and formatting techniques. This was a tough exercise for me, and I encountered several challenges.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Code Attempt🟦
+
+
