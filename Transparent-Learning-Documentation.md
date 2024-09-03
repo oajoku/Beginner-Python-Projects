@@ -486,6 +486,17 @@ Next Steps❗
 1. Investigate Further String Methods: I'll work on more complex string techniques, such as splitting and string replacement. My string methods will hopefully get better as I continue to progress.
 2. Work on Bigger Projects: To explore how these ideas fit into actual situations, I intend to use string handling in bigger projects. Naturally, I'll do this after finishing more challenging Python courses.
 3. Examine Documentation Practices: I will improve my documentation techniques to guarantee accuracy and comprehensiveness in records going forward.
-   
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Python Exercise #3🐍!
+--------------------------------------------------------------------------------------------------------------------------------------------
+Overview
+
+In this practice session, I worked on basic Python operations, such as arithmetic calculations, variable assignments, and Boolean comparisons. Below are the details of the code snippets and their outputs.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Code Attempt🟦
+
+
 
 
