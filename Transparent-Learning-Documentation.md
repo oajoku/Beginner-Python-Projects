@@ -641,7 +641,51 @@ This project is a simple practice exercise aimed at understanding the basics of 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 Code Attempt🟦
+class Person:
+    description="general person"
 
+    def _init_(self,name,age):
+        self.name=name
+        self.age=age
+    def speak(self):
+        print("My name is {} and I am {} years old".format(self.name, self.age))
+    def eat(self,food):
+        print("{} eats {}".format(self.name,food))
+    def action(self):
+        print("{} jumps".format(self.name))
+
+class Baby(person):
+    description="baby"
+    def speak(self):
+       print("ma ma")
+    def nap(self):
+       print("{} takes a nap".format(self.name))
+person=Person("Carey", 45)
+person.speak()
+person.eat("crab")
+person.action()
+
+baby=Baby("Mia",2)
+baby.speak()
+baby.eat("Baby Food")
+baby.action()
+print(person.description)
+print(baby.description)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Issues Encountered🟥
+1. Typos: In the code above, I made a mistake when typing out the "__init__" constructor method. Instead of typing the correct thing, I typed "_init_" instead.
+2. Inheritance Case sensitivity: The issue with my code above is that the "baby" class inherits from "person" with a lowercase "p". Python as I've learned, is case senistive, so it should've been a capital "P".
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Lessons Learned🟩
+1. Constructor Method: The "__init__" method must always be defined with double underscores to correctly initialize attributes for class instances.
+2. Inheriance and Method Overriding: The "baby" class successfully overrides the "speak" method from "person", demonstrating how inherited classes can modify base class behaviour.
+3. Case Sensitivity in Python: I have learnt that python is case sensitive, so class names and variable names need to be written consistently especially when using inheritance.
+--------------------------------------------------------------------------------------------------------------------------------------------Next Steps❗
+1. Unit Testing: I plan to learn how to add unit tests to validate the behaviours of both classes and ensure that methods like "speak", "eat" and action work as expected under different conditions.
+2. Error Handling: I will work on implementing basic error handling to handle invalid input for attributes like "name" or "age".
+3. I hope to explore more OOP concepts like encapsulation, polymorpism and abstract classes in Python.
 
 
 
