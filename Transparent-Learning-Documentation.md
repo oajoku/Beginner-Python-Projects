@@ -635,6 +635,14 @@ Next Steps❗
 2. Start working on small projects to apply these concepts in real-world scenarios.
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+Pyhton Exercise Attempt #4!🐍
+--------------------------------------------------------------------------------------------------------------------------------------------Overview
+This project is a simple practice exercise aimed at understanding the basics of Object-Oriented Programming (OOP) in Python, particularly inheritance and method overriding. It consists of two classes: Person and Baby. The Person class represents a general person, with attributes like name and age and methods for speaking, eating, and performing an action. The Baby class inherits from Person but overrides some behaviors, such as its own implementation of the speak method, which is more characteristic of a baby.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Code Attempt🟦
+
+
 
 
 
