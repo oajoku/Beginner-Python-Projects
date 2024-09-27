@@ -1,25 +1,3 @@
-#Band Name Generator
-
-##Description:
-This project generates a band name by taking user input for their city and pet name and combining them.
-
-##Key Concepts:
-1. String() function
-2. String Concactenation
-3. Input() function
-4. Syntax Errors
-5. Syntax Highlighting
-6. Debugging
-7. Indentation
-8. Variables
-9. Len() function
-
-##How to Run:
-1. Clone this repository.
-2. Run the "band_name_generator.py" file using python.
-
-##Code:
-
 #Create a greeting for your program
 print("Hello and welcome to the Band Name Generator!")
 
