@@ -5,6 +5,7 @@ I'll include all the challenges I face and how I overcome them. Thank you!
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ##Completed Projects:
+
 1.[Day 1: Band Name Generator](./100-Days-of-Python/BandNameGenerator/BandNameGenerator/band_name_generator.py)
 2. [Day 2: Project Name](./Project Name)
 3. [Day 3: Project Name](./Project Name)
