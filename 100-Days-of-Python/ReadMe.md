@@ -5,7 +5,7 @@ I'll include all the challenges I face and how I overcome them. Thank you!
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ##Completed Projects:
-1. [Day 1: BandNameGenerator](./https://bit.ly/4gO2xZO)
+1. [Day 1: Band Name Generator](./https://bit.ly/4gO2xZO)
 2. [Day 2: Project Name](./Project Name)
 3. [Day 3: Project Name](./Project Name)
 4. [Day 4: Project Name](./Project Name)
