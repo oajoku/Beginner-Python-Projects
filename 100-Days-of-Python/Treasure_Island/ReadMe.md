@@ -28,8 +28,15 @@ Additionally, upon finding the treasure, the player is rewarded with a choice be
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Features😄
+
+
+
 Text-based interaction using Python's input() function.
+
+
 Conditional statements (if/else/elif) to control the game flow.
+
+
 User input validation using .lower() to handle case variations.
 
 
