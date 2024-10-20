@@ -61,5 +61,8 @@ Handling User Input: Another challenge was managing user input consistently, esp
 
 
 How to Play🎮
+
+
+
 To play the game, clone this repository and run the Python script. Follow the prompts and make your choices wisely—your fate depends on it!
 
